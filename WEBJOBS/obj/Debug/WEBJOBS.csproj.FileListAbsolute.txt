@@ -1,0 +1,6 @@
+F:\C#\Ongoing\WEBJOBS\WEBJOBS\WEBJOBS\bin\WEBJOBS.dll.config
+F:\C#\Ongoing\WEBJOBS\WEBJOBS\WEBJOBS\bin\WEBJOBS.dll
+F:\C#\Ongoing\WEBJOBS\WEBJOBS\WEBJOBS\bin\WEBJOBS.pdb
+F:\C#\Ongoing\WEBJOBS\WEBJOBS\WEBJOBS\obj\Debug\WEBJOBS.csprojResolveAssemblyReference.cache
+F:\C#\Ongoing\WEBJOBS\WEBJOBS\WEBJOBS\obj\Debug\WEBJOBS.dll
+F:\C#\Ongoing\WEBJOBS\WEBJOBS\WEBJOBS\obj\Debug\WEBJOBS.pdb
